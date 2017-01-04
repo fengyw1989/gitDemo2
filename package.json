@@ -1,5 +1,5 @@
 {
-  "name": "starter",
+  "name": "gitDemo2",
   "version": "1.0.0",
   "description": "react project quick starter",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuoYongfeng/starter.git"
+    "url": "git+https://github.com/fengyw1989/gitDemo2.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,12 @@
     "es6",
     "redux"
   ],
-  "author": "GuoYongfeng",
+  "author": "fengyw1989",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GuoYongfeng/starter/issues"
+    "url": "https://github.com/fengyw1989/gitDemo2/issues"
   },
-  "homepage": "https://github.com/GuoYongfeng/starter#readme",
+  "homepage": "https://git@github.com:fengyw1989/gitDemo2#readme",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-eslint": "^4.1.3",
